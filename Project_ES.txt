@@ -1,0 +1,90 @@
+https://wifiauth.polito.it
+
+http://microcontrollerslab.com/embedded-system-projects-ideas-for-final-year-students/
+
+
+Memories
+	RAM
+	E2PROM
+	CAM cache
+Programmable Logic Device
+	PLD
+	PLA
+	FPGA
+Embbeded peripherals and device drivers
+	CAN
+	SPI
+	I2C
+	SERIAL
+	PWM
+	TIMERS
+	.....
+Analog to DIgital and Digital to Analog conversion
+	ADC
+	DAC
+Power management
+	Power Supplies
+
+
+5	ZigBee based Body temperature, blood pressure and sugar monitoring of patient using wireless communication
+6	Patient health monitoring system using Accelerometer
+17	Automatic fall detection and monitoring for old persons using wireless communication
+19	Based heartbeat monitoring of multiple patients using Wireless touch screen
+20	Heartbeat Monitor with Display on pc using Microcontroller
+21	Heart beat monitoring system with display on LCD
+22	Wireless Heartbeat Monitoring and Alarming system
+23	Card based patient data monitoring system using microcontroller and data  storage in SD card
+30	Centralized Heart Rate Monitoring Telemetry System Using ZigBee Wireless Sensor
+43	Real-time pantry information system using ZigBee
+46	Home Security with Voice Alerts & Virtual Keypad Authentication
+49	Remote patient monitoring system with GPRS and website based communication
+52	Heart-rate analyzer on color GLCD using Pic microcontroller
+58	Blood pressure blood glucose level monitoring on LCD and using gsm module
+59	Heart rate monitoring and alerting system using wireless communication with WiFi based Wireless
+63	patient data monitoring using RFID based wireless communication
+
+Body temperature, blood pressure, blood glucose, sugar and heartbeat
+
+Questions:
+1. What do you try develop?
+2. How do you try develop?
+3. Whats is the mode to cover all lesson's arguments?
+
+
+Per fare un progetto devi prima presentare una proposta in cui descrivi
+cosa intendi sviluppare, come intendi svilupparlo, e in che modo copri
+tutti gli argomenti svolti a lezione. In particolare devi coprire i
+seguenti argomenti:
+
+1. Memorie
+2. Logiche programmabili
+3. Protocolli di comunicazione
+4. Periferici del processore
+5. Conversione AD e/o DA
+6. Power management (pilotaggio carchi e/o alimentazione)
+
+Il progetto deve essere originale, non puoi cioè riutilizzare quanto
+già fatto per altri corsi o per la Squadra Corse. Dopo che mi hai
+inviato la proposta io ti comunico se va bene, o nel caso ti richiedo
+delle modifiche. Una volta definito il progetto, puoi cominciare a
+svolgerlo senza alcun limite di tempo. Non ho però le risorse per
+acquistare materiale, quindi se hai bisogno di qualcosa devi acquisirlo
+in qualche modo (magari chiedi prima a me se ho qualcosa che mi
+avanza). Al termine del progetto devi inviarmi una relazione in cui mi
+descrivi il sistema, e poi ti convoco per una dimostrazione pratica del
+progetto. Successivamente, al primo appello utile, ti registro l'esame.
+
+
+Latex Document
+ Introduction
+ 
+ Conclusions
+
+
+https://www.sparkfun.com/products/12650
+https://www.sparkfun.com/videos#all/rjWXtpbgLKg/158
+https://www.sparkfun.com/products/12803
+https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide?_ga=1.191856490.151044990.1476907015
+https://www.sparkfun.com/products/11574?_ga=1.191733482.151044990.1476907015
+https://www.sparkfun.com/products/12750
+
